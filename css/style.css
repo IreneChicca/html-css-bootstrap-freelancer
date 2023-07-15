@@ -25,9 +25,7 @@ h1 {
     text-transform: uppercase;
 }
 
-.bg-aqua {
-    background-color: #1abc9c;
-}
+
 
 
 
@@ -43,4 +41,24 @@ h1 {
 
 li {
     list-style: none;
+}
+
+
+footer span {
+    color: #1abc9c;
+}
+
+
+/* colors */
+
+.bg-aqua {
+    background-color: #1abc9c;
+}
+
+.bg-blue {
+    background-color: #3a546d;
+}
+
+.bg-dark-blue {
+    background-color: #2c3e50;
 }
