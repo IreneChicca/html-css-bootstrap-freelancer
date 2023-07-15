@@ -48,6 +48,13 @@ footer span {
     color: #1abc9c;
 }
 
+.form-control {
+    border-top: none;
+    border-left: none;
+    border-right: none;
+}
+
+
 
 /* colors */
 
